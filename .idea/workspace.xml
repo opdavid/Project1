@@ -2,103 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4d1346c-cbcd-4662-9028-e260c8d5e640" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/externalDependencies.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/LabAssiAsseRequirements .pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/MonitorizareTemeLaboratorV03.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Nota.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/NotaXML.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/NoteStudenti.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/StudentiXML.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/TemaLaborator.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/TemaLaboratorXML.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/XMLStdTests.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/diagram.uml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project1.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Domain/HasId.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Domain/Nota.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Domain/Student.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Domain/TemaLab.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Exceptions/RepositoryException.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Exceptions/ServiceException.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Exceptions/ValidatorException.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Repository/MemoryRepository/AbstractCrudRepo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Repository/MemoryRepository/NotaRepo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Repository/MemoryRepository/StudentRepo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Repository/MemoryRepository/TemaLabRepo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Repository/Repo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Repository/TxtFileRepository/AbstractFileRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Repository/TxtFileRepository/NotaFileRepo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Repository/TxtFileRepository/StudentFileRepo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Repository/TxtFileRepository/TemaLabFileRepo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Repository/XMLFileRepository/AbstractXMLRepo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Repository/XMLFileRepository/NotaXMLRepo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Repository/XMLFileRepository/StudentXMLRepo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Repository/XMLFileRepository/TemaLabXMLRepo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Service/TxtFileService/AbstractService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Service/TxtFileService/NotaService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Service/TxtFileService/StudentService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Service/TxtFileService/TemaLabService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Service/XMLFileService/AbstractXMLService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Service/XMLFileService/NotaXMLService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Service/XMLFileService/StudentXMLService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Service/XMLFileService/TemaLabXMLService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/TestStd.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/UI/ui.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Validator/IValidator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Validator/NotaValidator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Validator/StudentValidator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Validator/TemaLabValidator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/javatpoint/testcase/CrudRepoTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/TestLabAssignment.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/TestStudent.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/studenti.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/CrudRepoTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Domain/HasId.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Domain/Nota.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Domain/Student.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Domain/TemaLab.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Exceptions/RepositoryException.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Exceptions/ServiceException.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Exceptions/ValidatorException.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Main.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Repository/MemoryRepository/AbstractCrudRepo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Repository/MemoryRepository/NotaRepo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Repository/MemoryRepository/StudentRepo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Repository/MemoryRepository/TemaLabRepo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Repository/Repo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Repository/TxtFileRepository/AbstractFileRepository.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Repository/TxtFileRepository/NotaFileRepo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Repository/TxtFileRepository/StudentFileRepo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Repository/TxtFileRepository/TemaLabFileRepo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Repository/XMLFileRepository/AbstractXMLRepo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Repository/XMLFileRepository/NotaXMLRepo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Repository/XMLFileRepository/StudentXMLRepo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Repository/XMLFileRepository/TemaLabXMLRepo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Service/TxtFileService/AbstractService.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Service/TxtFileService/NotaService.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Service/TxtFileService/StudentService.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Service/TxtFileService/TemaLabService.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Service/XMLFileService/AbstractXMLService.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Service/XMLFileService/NotaXMLService.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Service/XMLFileService/StudentXMLService.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Service/XMLFileService/TemaLabXMLService.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/UI/ui.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Validator/IValidator.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Validator/NotaValidator.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Validator/StudentValidator.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Validator/TemaLabValidator.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/TestLabAssignment.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/TestStudent.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testStdService" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestLabAssignment.java" afterPath="$PROJECT_DIR$/src/test/java/TestLabAssignment.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestStudent.java" afterPath="$PROJECT_DIR$/src/test/java/TestStudent.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -111,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="21" column="41" lean-forward="false" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+            <state relative-caret-position="228">
+              <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -124,9 +31,13 @@
       <file leaf-file-name="TestStudent.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestStudent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-              <folding />
+            <state relative-caret-position="150">
+              <caret line="6" column="9" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#144#145#0" expanded="true" />
+                <element signature="e#176#177#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -151,12 +62,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestLabAssignment.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestLabAssignment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestLabAssignment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-              <folding />
+            <state relative-caret-position="225">
+              <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#157#158#0" expanded="true" />
+                <element signature="e#189#190#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -188,9 +103,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/javatpoint/testcase/CrudRepoTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/TestStudent.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestLabAssignment.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestStudent.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -207,7 +122,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="width" value="815" />
     <option name="height" value="868" />
@@ -266,7 +181,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -446,12 +361,15 @@
       <updated>1552897301259</updated>
       <workItem from="1552897308548" duration="537000" />
       <workItem from="1552897976848" duration="1696000" />
-      <workItem from="1552899859546" duration="77000" />
+      <workItem from="1552899859546" duration="1602000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
     <history-entry file="TestLabAssignment - 2019.03.18 at 11h 05m 11s.xml">
+      <configuration name="TestLabAssignment" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLabAssignment - 2019.03.18 at 11h 45m 45s.xml">
       <configuration name="TestLabAssignment" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TestStudent - 2019.03.18 at 10h 53m 29s.xml">
@@ -462,10 +380,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2310000" />
+    <option name="totallyTimeSpent" value="3835000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -485,7 +403,7 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2652174" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2652174" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1632" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -524,7 +442,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -548,7 +470,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -598,26 +524,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestLabAssignment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestStudent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-          <folding />
+        <state relative-caret-position="150">
+          <caret line="6" column="9" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="21" column="41" lean-forward="false" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestLabAssignment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        <state relative-caret-position="228">
+          <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
           <folding />
         </state>
       </provider>
