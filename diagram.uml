@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="1405.5" y="188.0">Repository.TxtFileRepository.AbstractFileRepository</node>
+    <node x="1665.3719135802469" y="0.0">Repository.Repo</node>
+    <node x="388.25" y="99.0">Domain.Nota</node>
+    <node x="0.0" y="420.0">Validator.TemaLabValidator</node>
+    <node x="183.0" y="341.0">Validator.IValidator</node>
+    <node x="0.0" y="188.0">Service.TxtFileService.StudentService</node>
+    <node x="756.0" y="188.0">Service.XMLFileService.TemaLabXMLService</node>
+    <node x="1152.7191358024693" y="99.0">Domain.TemaLab</node>
+    <node x="877.0" y="341.0">Exceptions.ServiceException</node>
+    <node x="277.0" y="188.0">Service.TxtFileService.TemaLabService</node>
+    <node x="586.0" y="188.0">Service.XMLFileService.StudentXMLService</node>
+    <node x="846.875" y="0.0">Domain.HasId</node>
+    <node x="164.0" y="420.0">Validator.StudentValidator</node>
+    <node x="584.5" y="99.0">Service.XMLFileService.AbstractXMLService</node>
+    <node x="431.0" y="188.0">Service.XMLFileService.NotaXMLService</node>
+    <node x="1263.5" y="267.0">Repository.TxtFileRepository.StudentFileRepo</node>
+    <node x="686.0" y="341.0">Exceptions.ValidatorException</node>
+    <node x="1856.5" y="188.0">Repository.MemoryRepository.StudentRepo</node>
+    <node x="1178.0" y="341.0">UI.ui</node>
+    <node x="1712.5" y="188.0">Repository.MemoryRepository.TemaLabRepo</node>
+    <node x="320.0" y="420.0">Validator.NotaValidator</node>
+    <node x="486.0" y="341.0">Exceptions.RepositoryException</node>
+    <node x="809.2175925925926" y="99.0">Domain.Student</node>
+    <node x="1594.1219135802469" y="99.0">Repository.MemoryRepository.AbstractCrudRepo</node>
+    <node x="790.5" y="267.0">Repository.XMLFileRepository.NotaXMLRepo</node>
+    <node x="935.5" y="267.0">Repository.XMLFileRepository.StudentXMLRepo</node>
+    <node x="146.0" y="188.0">Service.TxtFileService.NotaService</node>
+    <node x="137.0" y="99.0">Service.TxtFileService.AbstractService</node>
+    <node x="934.0" y="188.0">Repository.XMLFileRepository.AbstractXMLRepo</node>
+    <node x="1095.5" y="267.0">Repository.XMLFileRepository.TemaLabXMLRepo</node>
+    <node x="1591.5" y="188.0">Repository.MemoryRepository.NotaRepo</node>
+    <node x="1058.0" y="341.0">Main</node>
+    <node x="1579.5" y="267.0">Repository.TxtFileRepository.NotaFileRepo</node>
+    <node x="1417.5" y="267.0">Repository.TxtFileRepository.TemaLabFileRepo</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Repository.TxtFileRepository.AbstractFileRepository" target="Repository.MemoryRepository.AbstractCrudRepo">
+      <point x="41.5" y="-14.5" />
+      <point x="1530.0" y="158.0" />
+      <point x="1637.6219135802469" y="158.0" />
+      <point x="-29.0" y="14.5" />
+    </edge>
+    <edge source="Service.XMLFileService.StudentXMLService" target="Service.XMLFileService.AbstractXMLService">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="Service.XMLFileService.NotaXMLService" target="Service.XMLFileService.AbstractXMLService">
+      <point x="0.0" y="-14.5" />
+      <point x="498.5" y="168.0" />
+      <point x="610.0" y="168.0" />
+      <point x="-51.0" y="14.5" />
+    </edge>
+    <edge source="Validator.TemaLabValidator" target="Validator.IValidator">
+      <point x="0.0" y="-14.5" />
+      <point x="72.0" y="395.0" />
+      <point x="199.33333333333334" y="395.0" />
+      <point x="-32.66666666666666" y="14.5" />
+    </edge>
+    <edge source="Repository.MemoryRepository.NotaRepo" target="Repository.MemoryRepository.AbstractCrudRepo">
+      <point x="0.0" y="-14.5" />
+      <point x="1642.0" y="168.0" />
+      <point x="1666.6219135802469" y="168.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="Repository.MemoryRepository.AbstractCrudRepo" target="Repository.Repo">
+      <point x="36.25" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="Service.XMLFileService.TemaLabXMLService" target="Service.XMLFileService.AbstractXMLService">
+      <point x="0.0" y="-14.5" />
+      <point x="835.0" y="168.0" />
+      <point x="712.0" y="168.0" />
+      <point x="51.0" y="14.5" />
+    </edge>
+    <edge source="Domain.Nota" target="Domain.HasId">
+      <point x="0.0" y="-14.5" />
+      <point x="425.25" y="59.0" />
+      <point x="861.5" y="59.0" />
+      <point x="-24.375" y="14.5" />
+    </edge>
+    <edge source="Repository.MemoryRepository.AbstractCrudRepo" target="Domain.HasId">
+      <point x="-36.25" y="-14.5" />
+      <point x="1630.3719135802469" y="49.0" />
+      <point x="920.0" y="49.0" />
+      <point x="34.125" y="14.5" />
+    </edge>
+    <edge source="Service.XMLFileService.AbstractXMLService" target="Domain.HasId">
+      <point x="0.0" y="-14.5" />
+      <point x="661.0" y="69.0" />
+      <point x="871.25" y="69.0" />
+      <point x="-14.625" y="14.5" />
+    </edge>
+    <edge source="Service.TxtFileService.StudentService" target="Service.TxtFileService.AbstractService">
+      <point x="0.0" y="-14.5" />
+      <point x="63.0" y="168.0" />
+      <point x="158.5" y="168.0" />
+      <point x="-43.0" y="14.5" />
+    </edge>
+    <edge source="Repository.TxtFileRepository.TemaLabFileRepo" target="Repository.TxtFileRepository.AbstractFileRepository">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="Repository.TxtFileRepository.StudentFileRepo" target="Repository.TxtFileRepository.AbstractFileRepository">
+      <point x="0.0" y="-14.5" />
+      <point x="1330.5" y="242.0" />
+      <point x="1433.1666666666667" y="242.0" />
+      <point x="-55.33333333333326" y="14.5" />
+    </edge>
+    <edge source="Service.TxtFileService.TemaLabService" target="Service.TxtFileService.AbstractService">
+      <point x="0.0" y="-14.5" />
+      <point x="344.0" y="168.0" />
+      <point x="244.5" y="168.0" />
+      <point x="43.0" y="14.5" />
+    </edge>
+    <edge source="Validator.NotaValidator" target="Validator.IValidator">
+      <point x="0.0" y="-14.5" />
+      <point x="380.5" y="395.0" />
+      <point x="264.66666666666663" y="395.0" />
+      <point x="32.66666666666666" y="14.5" />
+    </edge>
+    <edge source="Repository.XMLFileRepository.TemaLabXMLRepo" target="Repository.XMLFileRepository.AbstractXMLRepo">
+      <point x="0.0" y="-14.5" />
+      <point x="1169.5" y="242.0" />
+      <point x="1053.1666666666667" y="242.0" />
+      <point x="47.66666666666663" y="14.5" />
+    </edge>
+    <edge source="Repository.XMLFileRepository.StudentXMLRepo" target="Repository.XMLFileRepository.AbstractXMLRepo">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="Repository.MemoryRepository.TemaLabRepo" target="Repository.MemoryRepository.AbstractCrudRepo">
+      <point x="0.0" y="-14.5" />
+      <point x="1774.5" y="168.0" />
+      <point x="1695.6219135802469" y="168.0" />
+      <point x="29.0" y="14.5" />
+    </edge>
+    <edge source="Repository.XMLFileRepository.AbstractXMLRepo" target="Domain.HasId">
+      <point x="-35.749999999999886" y="-14.5" />
+      <point x="969.7500000000001" y="79.0" />
+      <point x="890.75" y="79.0" />
+      <point x="4.875" y="14.5" />
+    </edge>
+    <edge source="Validator.StudentValidator" target="Validator.IValidator">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="Domain.Student" target="Domain.HasId">
+      <point x="0.0" y="-14.5" />
+      <point x="853.7175925925926" y="79.0" />
+      <point x="881.0" y="79.0" />
+      <point x="-4.875" y="14.5" />
+    </edge>
+    <edge source="Service.TxtFileService.AbstractService" target="Domain.HasId">
+      <point x="0.0" y="-14.5" />
+      <point x="201.5" y="49.0" />
+      <point x="851.75" y="49.0" />
+      <point x="-34.125" y="14.5" />
+    </edge>
+    <edge source="Service.TxtFileService.NotaService" target="Service.TxtFileService.AbstractService">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="Domain.TemaLab" target="Domain.HasId">
+      <point x="0.0" y="-14.5" />
+      <point x="1201.2191358024693" y="69.0" />
+      <point x="900.5" y="69.0" />
+      <point x="14.625" y="14.5" />
+    </edge>
+    <edge source="Repository.TxtFileRepository.AbstractFileRepository" target="Domain.HasId">
+      <point x="-41.5" y="-14.5" />
+      <point x="1447.0" y="59.0" />
+      <point x="910.25" y="59.0" />
+      <point x="24.375" y="14.5" />
+    </edge>
+    <edge source="Repository.XMLFileRepository.AbstractXMLRepo" target="Repository.MemoryRepository.AbstractCrudRepo">
+      <point x="35.750000000000114" y="-14.5" />
+      <point x="1041.2500000000002" y="148.0" />
+      <point x="1608.6219135802469" y="148.0" />
+      <point x="-58.0" y="14.5" />
+    </edge>
+    <edge source="Repository.XMLFileRepository.NotaXMLRepo" target="Repository.XMLFileRepository.AbstractXMLRepo">
+      <point x="1.1368683772161603E-13" y="-14.5" />
+      <point x="853.0000000000001" y="242.0" />
+      <point x="957.8333333333334" y="242.0" />
+      <point x="-47.66666666666663" y="14.5" />
+    </edge>
+    <edge source="Repository.MemoryRepository.StudentRepo" target="Repository.MemoryRepository.AbstractCrudRepo">
+      <point x="0.0" y="-14.5" />
+      <point x="1914.5" y="158.0" />
+      <point x="1724.6219135802469" y="158.0" />
+      <point x="58.0" y="14.5" />
+    </edge>
+    <edge source="Repository.TxtFileRepository.NotaFileRepo" target="Repository.TxtFileRepository.AbstractFileRepository">
+      <point x="0.0" y="-14.5" />
+      <point x="1639.0" y="242.0" />
+      <point x="1543.8333333333333" y="242.0" />
+      <point x="55.33333333333326" y="14.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="1086.5" y="343.0" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
