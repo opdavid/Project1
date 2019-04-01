@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4d1346c-cbcd-4662-9028-e260c8d5e640" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/test.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/test2.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Domain/TemaLab.java" afterPath="$PROJECT_DIR$/src/main/java/Domain/TemaLab.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestLabAssignment.java" afterPath="$PROJECT_DIR$/src/test/java/TestLabAssignment.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestStudent.java" afterPath="$PROJECT_DIR$/src/test/java/TestStudent.java" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TestLabAssignment.class" afterPath="$PROJECT_DIR$/target/test-classes/TestLabAssignment.class" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TestStudent.class" afterPath="$PROJECT_DIR$/target/test-classes/TestStudent.class" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test2.xml" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -22,11 +16,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="TestLabAssignment.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestLabAssignment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="665">
               <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestStudent.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TestStudent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="14" column="101" lean-forward="true" selection-start-line="14" selection-start-column="101" selection-end-line="14" selection-end-column="101" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -79,16 +95,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
               <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test2.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/test2.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="200" lean-forward="true" selection-start-line="0" selection-start-column="200" selection-end-line="0" selection-end-column="200" />
               <folding />
             </state>
           </provider>
@@ -292,7 +298,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestLabAssignment.testAddWithWrongParams">
+  <component name="RunManager" selected="JUnit.TestLabAssignment">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <option name="WIDTH" value="400" />
@@ -455,9 +461,9 @@
     </list>
     <recent_temporary>
       <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TestLabAssignment.testAddWithWrongParams" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TestLabAssignment" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TestStudent" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestLabAssignment" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestStudent" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestLabAssignment.testAddWithWrongParams" />
         <item index="3" class="java.lang.String" itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -478,7 +484,7 @@
       <workItem from="1552897308548" duration="537000" />
       <workItem from="1552897976848" duration="1696000" />
       <workItem from="1552899859546" duration="1722000" />
-      <workItem from="1554059351432" duration="5055000" />
+      <workItem from="1554059351432" duration="5313000" />
     </task>
     <servers />
   </component>
@@ -498,24 +504,24 @@
     <history-entry file="TestLabAssignment - 2019.04.01 at 09h 47m 33s.xml">
       <configuration name="TestLabAssignment" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestLabAssignment - 2019.04.01 at 10h 18m 57s.xml">
+      <configuration name="TestLabAssignment" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLabAssignment - 2019.04.01 at 10h 21m 29s.xml">
+      <configuration name="TestLabAssignment" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="TestLabAssignment_testAddWithWrongParams - 2019.04.01 at 09h 56m 24s.xml">
       <configuration name="TestLabAssignment.testAddWithWrongParams" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TestLabAssignment_testAddWithWrongParams - 2019.04.01 at 10h 12m 35s.xml">
       <configuration name="TestLabAssignment.testAddWithWrongParams" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestStudent - 2019.03.31 at 22h 43m 21s.xml">
-      <configuration name="TestStudent" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestStudent - 2019.03.31 at 22h 44m 17s.xml">
-      <configuration name="TestStudent" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestStudent - 2019.03.31 at 22h 44m 38s.xml">
+    <history-entry file="TestStudent - 2019.04.01 at 10h 19m 09s.xml">
       <configuration name="TestStudent" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9010000" />
+    <option name="totallyTimeSpent" value="9268000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -538,7 +544,7 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36086956" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36086956" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1632" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -561,7 +567,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -669,14 +677,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="36" column="21" lean-forward="false" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Service/XMLFileService/NotaXMLService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
@@ -749,16 +749,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestStudent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="101" lean-forward="true" selection-start-line="14" selection-start-column="101" selection-end-line="14" selection-end-column="101" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/test.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -823,9 +813,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="101" lean-forward="true" selection-start-line="14" selection-start-column="101" selection-end-line="14" selection-end-column="101" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestLabAssignment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
+        <state relative-caret-position="665">
           <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
