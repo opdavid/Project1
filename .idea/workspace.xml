@@ -4,6 +4,12 @@
     <list default="true" id="b4d1346c-cbcd-4662-9028-e260c8d5e640" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/target/project1-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/project1-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestLabAssignment.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestLabAssignment.xml" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestStudent.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestStudent.xml" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestLabAssignment.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/TestLabAssignment.txt" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestStudent.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/TestStudent.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,8 +25,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="35" column="32" lean-forward="false" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+            <state relative-caret-position="476">
+              <caret line="20" column="21" lean-forward="false" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -484,14 +490,11 @@
       <workItem from="1552897308548" duration="537000" />
       <workItem from="1552897976848" duration="1696000" />
       <workItem from="1552899859546" duration="1722000" />
-      <workItem from="1554059351432" duration="6235000" />
+      <workItem from="1554059351432" duration="6570000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestLabAssignment - 2019.04.01 at 09h 36m 14s.xml">
-      <configuration name="TestLabAssignment" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestLabAssignment - 2019.04.01 at 09h 38m 11s.xml">
       <configuration name="TestLabAssignment" configurationId="JUnit" />
     </history-entry>
@@ -510,6 +513,9 @@
     <history-entry file="TestLabAssignment - 2019.04.01 at 10h 37m 09s.xml">
       <configuration name="TestLabAssignment" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestLabAssignment - 2019.04.01 at 10h 42m 16s.xml">
+      <configuration name="TestLabAssignment" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="TestLabAssignment_testAddWithWrongParams - 2019.04.01 at 09h 56m 24s.xml">
       <configuration name="TestLabAssignment.testAddWithWrongParams" configurationId="JUnit" />
     </history-entry>
@@ -521,7 +527,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10190000" />
+    <option name="totallyTimeSpent" value="10525000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -544,7 +550,7 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29456523" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29456523" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1632" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -835,8 +841,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="35" column="32" lean-forward="false" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+        <state relative-caret-position="476">
+          <caret line="20" column="21" lean-forward="false" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
           <folding />
         </state>
       </provider>
