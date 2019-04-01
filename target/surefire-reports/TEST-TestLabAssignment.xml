@@ -62,6 +62,6 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="TestLabAssignment" name="testAddWithWrongParams" time="0.003"/>
-  <testcase classname="TestLabAssignment" name="testAddLabAssignment" time="0.121"/>
+  <testcase classname="TestLabAssignment" name="testAddLabAssignment" time="0.124"/>
+  <testcase classname="TestLabAssignment" name="testAddWithWrongParams" time="0"/>
 </testsuite>

@@ -18,7 +18,7 @@ public class TestStudent {
         String[] student = {"1", "nume", "123", "asdfd", "asdfds"};
         try {
             stsrv.add(student);
-            assertEquals(1,strepo.getSize());
+            assertEquals(1, strepo.getSize());
         } catch (ValidatorException e) {
             e.printStackTrace();
             assertTrue(false);
@@ -26,16 +26,22 @@ public class TestStudent {
     }
 
     @Test
-    public void testStudentAlreadyExist(){
+    public void testStudentAlreadyExist() {
         String[] student = {"2", "nume", "123", "asdfd", "asdfds"};
         String[] student2 = {"2", "gigolo", "123", "asdfd", "asdfds"};
         try {
             stsrv.add(student);
             stsrv.add(student2);
-            assertEquals(1,stsrv.getSize());
+            assertEquals(1, stsrv.getSize());
         } catch (ValidatorException e) {
             e.printStackTrace();
             assertTrue(false);
         }
+    }
+
+    @Test
+    public void testStudentId() throws ValidatorException {
+        String[] student = {"string", "nume", "123", "asdfd", "asdfds"};
+        stsrv.add(student);
     }
 }
