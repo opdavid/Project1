@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4d1346c-cbcd-4662-9028-e260c8d5e640" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
-      <change beforePath="$PROJECT_DIR$/target/project1-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/project1-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestLabAssignment.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestLabAssignment.xml" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestStudent.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestStudent.xml" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestLabAssignment.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/TestLabAssignment.txt" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestStudent.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/TestStudent.txt" />
+      <change beforePath="$PROJECT_DIR$/project1.iml" afterPath="$PROJECT_DIR$/project1.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -490,7 +483,7 @@
       <workItem from="1552897308548" duration="537000" />
       <workItem from="1552897976848" duration="1696000" />
       <workItem from="1552899859546" duration="1722000" />
-      <workItem from="1554059351432" duration="6570000" />
+      <workItem from="1554059351432" duration="6606000" />
     </task>
     <servers />
   </component>
@@ -527,7 +520,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10525000" />
+    <option name="totallyTimeSpent" value="10561000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
