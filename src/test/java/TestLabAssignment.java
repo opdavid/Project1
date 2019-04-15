@@ -4,9 +4,6 @@ import Service.XMLFileService.TemaLabXMLService;
 import Validator.TemaLabValidator;
 import org.junit.Test;
 
-import static junit.framework.Assert.assertEquals;
-import static junit.framework.Assert.assertTrue;
-
 public class TestLabAssignment {
 
     private TemaLabValidator vt = new TemaLabValidator();
@@ -16,13 +13,7 @@ public class TestLabAssignment {
     @Test
     public void testAddLabAssignment() {
         String[] tema = {"1", "descriere", "5", "3"};
-        try {
-            tmsrv.add(tema);
-            assertEquals(1, tmrepo.getSize());
-        } catch (ValidatorException e) {
-            e.printStackTrace();
-            assertTrue(false);
-        }
+        TestUtils.addEntity(tema, vt, tmsrv, tmrepo);
     }
 
     @Test(expected = NumberFormatException.class)

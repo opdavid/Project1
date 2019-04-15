@@ -16,13 +16,7 @@ public class TestStudent {
     @Test
     public void testAddStudent() {
         String[] student = {"1", "nume", "123", "asdfd", "asdfds"};
-        try {
-            stsrv.add(student);
-            assertEquals(1, strepo.getSize());
-        } catch (ValidatorException e) {
-            e.printStackTrace();
-            assertTrue(false);
-        }
+        TestUtils.addEntity(student, vs, stsrv, strepo);
     }
 
     @Test
@@ -39,9 +33,9 @@ public class TestStudent {
         }
     }
 
-    @Test
+    @Test(expected = ValidatorException.class)
     public void testStudentId() throws ValidatorException {
-        String[] student = {"string", "nume", "123", "asdfd", "asdfds"};
+        String[] student = {"", "nume", "123", "asdfd", "asdfds"};
         stsrv.add(student);
     }
 }
